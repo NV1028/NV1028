@@ -2,10 +2,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NV1028/NV1028/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
-</p>
-
 I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
  
  🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
